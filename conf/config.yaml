@@ -1,0 +1,3 @@
+mysql:
+  max_idle_conns: 50
+  source_name:  root:123456@tcp(127.0.0.1:3306)/bookstore?parseTime=true&charset=utf8&loc=Local
